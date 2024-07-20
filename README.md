@@ -1,9 +1,4 @@
-## Hi there 👋
-
-
-**Segundev/Segundev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 👋 I'm Jayeola Gbenga, a Full Stack Developer!
 
 - 🔭 I’m currently working on a digital solution that enables low income household in Nigeria to make choices that reduce their expenditure on food.
 - 🌱 I’m currently learning Full stack development and coupled with the use of AI
